@@ -1,0 +1,19 @@
+#about{
+    float:left;
+    width: 45%;
+    height: auto;
+    background-color: lightblue;
+    padding-left: 30px;
+}
+
+#hobbies{
+    float:right;
+    width: 45%;
+    height: auto;
+    background-color: paleturquoise;
+    padding-right: 30px;
+}
+header{
+    background-color: rgb(26, 191, 26);
+    color: gold;
+}
