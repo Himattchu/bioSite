@@ -17,3 +17,7 @@ header{
     background-color: rgb(26, 191, 26);
     color: gold;
 }
+img{
+    width: 35%;
+    height: auto;
+}
