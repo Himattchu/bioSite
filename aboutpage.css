@@ -1,0 +1,53 @@
+header{
+    font-size: 50px;
+    background-color: aquamarine;
+    text-align: center;
+}
+body{
+    background-color: lightgoldenrodyellow
+}
+h1{
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+    color: gold;
+}
+#background{
+    width: 45%;
+    float: left;
+    background-color: cornflowerblue;
+    margin-left: 30px;
+    font-size: 24px;
+    color: antiquewhite;
+    margin-top: 5%;
+    padding: 10px;
+    text-align: center;
+}
+#background img {
+    width: 200px;
+    height: auto;
+    padding: 30px;
+    background: lightgreen;
+    border: 1px solid #9799a7;
+    margin: 8px 0 0 20px;
+    border-radius: 30px;
+}
+#work{
+    width: 45%;
+    float: right;
+    background-color: cornflowerblue;
+    margin-right: 30px;
+    margin-top: 5%;
+    font-size: 24px;
+    color: antiquewhite;
+    text-align: center;
+}
+#work img {
+    width: 300px;
+    height: auto;
+    padding: 30px;
+    background: lightgreen;
+
+    margin: 8px 0 0 20px;
+    border-radius: 30px;
+}

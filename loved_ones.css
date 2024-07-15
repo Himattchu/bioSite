@@ -1,0 +1,57 @@
+header{
+    font-size: 50px;
+    background-color: aquamarine;
+    text-align: center;
+}
+body{
+    background-color: rgb(84, 214, 237);
+}
+h2{
+    text-align: center;
+    font-size: 46px;
+}
+#family{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
+#family img{
+    background: lightgreen;
+    border: 1px solid #9799a7;
+    margin: 8px 0 0 20px;
+    padding: 10px;
+    display: block;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+}
+figcaption{
+    text-align: center;
+    color: rgba(11, 21, 214, 0.846);
+}
+#text{
+    font-size: 30px;
+    text-align: center;
+    padding-left: 40px;
+    background-color: lightgoldenrodyellow;
+    -webkit-text-stroke-width: 1px;
+}
+
+#boyfriend{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 20px;
+}
+#boyfriend img{
+
+    background: lightgreen;
+    border: 1px solid #9799a7;
+    margin: 8px 0 0 20px;
+    padding: 10px;
+    display: block;
+    width: 350px;
+    height: auto;
+    border-radius: 10px;
+}

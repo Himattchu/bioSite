@@ -1,23 +1,79 @@
-#about{
-    float:left;
-    width: 45%;
-    height: auto;
-    background-color: lightblue;
-    padding-left: 30px;
+h1{
+    font-size: 36px;
+    text-align: center;
+    background-color: goldenrod;
 }
-
-#hobbies{
-    float:right;
-    width: 45%;
-    height: auto;
-    background-color: paleturquoise;
-    padding-right: 30px;
+h2{
+    font-size: 36px;
+    text-align: center;
+    background-color: lightgoldenrodyellow;
 }
 header{
     background-color: rgb(26, 191, 26);
     color: gold;
 }
-img{
-    width: 35%;
-    height: auto;
+body{
+    background-color: cornflowerblue;
+}
+#main{
+    display: flex;
+    column-gap: 200px;
+    margin-left: 30px;
+}
+#loved{
+    width: 20%;
+    height: 375px;
+    background-color: rgb(84, 214, 237);
+    margin-left: 50px;
+    margin-top: 70px; 
+}
+#loved img{
+    padding: 10px;
+    width: 350px;
+    height: 350px;
+}
+#textLoved{
+    font-size: 36px;
+    text-align: center;
+    font-family: "Lucida Handwriting", cursive;
+    background-color: lightgreen;
+}
+#about{
+    width: 30%;
+    height: 450px;
+    background-color: lightgoldenrodyellow;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#about img{
+    padding: 10px;
+    width: 425px;
+    height: 425px;
+    padding-left:65px;
+    padding-top: 10px;
+}
+#textAbout{
+    font-size: 36px;
+    text-align: center;
+    font-family: "Lucida Handwriting", cursive;
+    background-color: lightgreen;
+}
+#hobbies{
+    width: 20%;
+    height: 400px;
+    background-color: paleturquoise;
+    margin-right: 50px;
+    margin-top: 70px;
+}
+#hobbies img{
+    padding: 10px;
+    width: 350px;
+    height: 350px;
+    padding-top: 30px;
+}
+#textHobbies{
+    font-size: 36px;
+    text-align: center;
+    font-family: "Lucida Handwriting", cursive;
+    background-color: lightgreen;
 }
